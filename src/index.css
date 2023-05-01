@@ -1,13 +1,72 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.color-body{
+  background-color: #f8f8f8;
+}
+.fonts{
+  font-family: 'Almarai', sans-serif;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-style{
+  color: #b45b35;
+  background-color: white;
+  border: 3px solid #b45b35;
+  border-radius: 8px;
+}
+.btn-style:hover{
+  background-color: #b45b35;
+  color: white;
+  border: 3px solid white;
+  border-radius: 8px;
+}
+.brand-color{
+  color: #b45b35;
+}
+.title{
+  color: #224f61;
+  font-size: 30px;
+  line-height: 64px;
+  letter-spacing: 0;
+  font-weight: bold;
+}
+.underline{
+  height: 1px;
+  width: 100px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+.btn-list{
+  color: black;
+  border: 1px solid #b45b35;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-weight: bold;
+}
+.btn-list:hover{
+  background-color: #b45b35;
+  border-radius: 11px;
+  color: white;
+  border: none;
+}
+.img-item{
+  border-radius: 5px 5px 0 ;
+}
+.item-title{
+  color: #555;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+}
+.item-price{
+  font-size: 16px;
+  color: blueviolet;
+  letter-spacing: 0;
+  font-weight: bold;
+}
+.item-description{
+  color: #8c8c8c;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
 }
