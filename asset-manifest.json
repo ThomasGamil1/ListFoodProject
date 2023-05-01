@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ThomasGamil1/ListFoodProject/static/css/main.1905de22.css",
+    "main.js": "/ThomasGamil1/ListFoodProject/static/js/main.cd396a1b.js",
+    "index.html": "/ThomasGamil1/ListFoodProject/index.html",
+    "main.1905de22.css.map": "/ThomasGamil1/ListFoodProject/static/css/main.1905de22.css.map",
+    "main.cd396a1b.js.map": "/ThomasGamil1/ListFoodProject/static/js/main.cd396a1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1905de22.css",
+    "static/js/main.cd396a1b.js"
+  ]
+}
